@@ -99,5 +99,12 @@ public class ArrayTest {
 		//null空值無法更改
 		String str2 = null;
 	}
+	@Test
+	public void listTest3() {
+		String str = "ABC";
+		String str1 = new String("ADC");
+		//null空值無法更改
+		String str2 = null;
+	}
 
 }
